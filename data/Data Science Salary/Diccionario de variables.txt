@@ -1,0 +1,175 @@
+experience_level
+'SE': Nivel senior (Senior).
+'MI': Nivel intermedio (Mid).
+'EN': Nivel de entrada (Entry).
+'EX': Experiencia no especificada (Experience not specified).
+
+employment_type
+'FT': Tiempo completo (Full-Time).
+'CT': Tiempo parcial (Part-Time).
+'FL': Trabajo flexible (Flexible).
+'PT': Prácticas (Internship).
+
+remote_ratio
+100 = Trabajo completamente remoto
+50 = Trabajo remote y en oficinas de la empresa 
+0 = Trabajo completamente en oficinas de la empresa
+
+company_size
+S=Pequeña empresa
+M=Mediana empresa
+L=Grande empresa
+
+employee_residence
+'ES': España
+'US': Estados Unidos
+'CA': Canadá
+'DE': Alemania
+'GB': Reino Unido
+'NG': Nigeria
+'IN': India
+'HK': Hong Kong
+'PT': Portugal
+'NL': Países Bajos
+'CH': Suiza
+'CF': República Centroafricana
+'FR': Francia
+'AU': Australia
+'FI': Finlandia
+'UA': Ucrania
+'IE': Irlanda
+'IL': Israel
+'GH': Ghana
+'AT': Austria
+'CO': Colombia
+'SG': Singapur
+'SE': Suecia
+'SI': Eslovenia
+'MX': México
+'UZ': Uzbekistán
+'BR': Brasil
+'TH': Tailandia
+'HR': Croacia
+'PL': Polonia
+'KW': Kuwait
+'VN': Vietnam
+'CY': Chipre
+'AR': Argentina
+'AM': Armenia
+'BA': Bosnia y Herzegovina
+'KE': Kenia
+'GR': Grecia
+'MK': Macedonia del Norte
+'LV': Letonia
+'RO': Rumania
+'PK': Pakistán
+'IT': Italia
+'MA': Marruecos
+'LT': Lituania
+'BE': Bélgica
+'AS': Samoa Americana
+'IR': Irán
+'HU': Hungría
+'SK': Eslovaquia
+'CN': China
+'CZ': República Checa
+'CR': Costa Rica
+'TR': Turquía
+'CL': Chile
+'PR': Puerto Rico
+'DK': Dinamarca
+'BO': Bolivia
+'PH': Filipinas
+'DO': República Dominicana
+'EG': Egipto
+'ID': Indonesia
+'AE': Emiratos Árabes Unidos
+'MY': Malasia
+'JP': Japón
+'EE': Estonia
+'HN': Honduras
+'TN': Túnez
+'RU': Rusia
+'DZ': Argelia
+'IQ': Irak
+'BG': Bulgaria
+'JE': Jersey
+'RS': Serbia
+'NZ': Nueva Zelanda
+'MD': Moldavia
+'LU': Luxemburgo
+'MT': Malta
+
+company_location
+'ES': España
+'US': Estados Unidos
+'CA': Canadá
+'DE': Alemania
+'GB': Reino Unido
+'NG': Nigeria
+'IN': India
+'HK': Hong Kong
+'NL': Países Bajos
+'CH': Suiza
+'CF': República Centroafricana
+'FR': Francia
+'FI': Finlandia
+'UA': Ucrania
+'IE': Irlanda
+'IL': Israel
+'GH': Ghana
+'CO': Colombia
+'SG': Singapur
+'AU': Australia
+'SE': Suecia
+'SI': Eslovenia
+'MX': México
+'BR': Brasil
+'PT': Portugal
+'RU': Rusia
+'TH': Tailandia
+'HR': Croacia
+'VN': Vietnam
+'EE': Estonia
+'AM': Armenia
+'BA': Bosnia y Herzegovina
+'KE': Kenia
+'GR': Grecia
+'MK': Macedonia del Norte
+'LV': Letonia
+'RO': Rumania
+'PK': Pakistán
+'IT': Italia
+'MA': Marruecos
+'PL': Polonia
+'AL': Albania
+'AR': Argentina
+'LT': Lituania
+'AS': Samoa Americana
+'CR': Costa Rica
+'IR': Irán
+'BS': Bahamas
+'HU': Hungría
+'AT': Austria
+'SK': Eslovaquia
+'CZ': República Checa
+'TR': Turquía
+'PR': Puerto Rico
+'DK': Dinamarca
+'BO': Bolivia
+'PH': Filipinas
+'BE': Bélgica
+'ID': Indonesia
+'EG': Egipto
+'AE': Emiratos Árabes Unidos
+'LU': Luxemburgo
+'MY': Malasia
+'HN': Honduras
+'JP': Japón
+'DZ': Argelia
+'IQ': Irak
+'CN': China
+'NZ': Nueva Zelanda
+'CL': Chile
+'MD': Moldavia
+'MT': Malta
